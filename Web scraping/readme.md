@@ -2,6 +2,8 @@
 
 Web scraping is a technique used to extract information and data from websites. It involves automated processes that gather data from web pages by sending requests to the website's server and parsing the HTML or other structured content in the response. Web scraping is commonly employed to collect data for various purposes, such as research, analysis, data aggregation, and more.
 
+![web scraping image](<a href="https://www.freepik.com/free-vector/laptop-software-assisting-testing-process-tiny-people-testers-automated-testing-automotive-executed-test-software-auto-tester-concept_11669254.htm#query=web%20scraping&position=4&from_view=keyword&track=ais">Image by vectorjuice</a> on Freepik)
+
 **Tools:**
 The tools used in this web scraping project are essential for different aspects of the process, from making HTTP requests to parsing HTML content and organizing data. Here are tools that involved in this porject:
 - Python
