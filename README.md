@@ -4,6 +4,8 @@
 
 As a passionate data scientist, I've meticulously curated and developed these projects to showcase my problem-solving skills and ability to transform raw data into actionable insights. From data preprocessing to model building and visualization, each project represents a unique challenge I've tackled.
 
+![DS photo gh](https://github.com/JAbhi09/Data-Science/assets/143057373/6e373c09-f428-4239-8c3b-e44aeb95550f)
+
 **Key Features:**
 
 - Diverse Projects: Explore a range of projects covering domains like finance, healthcare, e-commerce, and more, reflecting the versatility of my skills.
