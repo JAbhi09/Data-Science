@@ -13,6 +13,7 @@ Linear regression is a statistical technique used to model the relationship betw
 - Matplotlib
 - Seaborn
 
+### Project Details
 
 **Project 1: Gradient Descent on Boston (From Scratch)**
 
