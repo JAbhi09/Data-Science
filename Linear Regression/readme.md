@@ -6,12 +6,12 @@ Linear regression is a statistical technique used to model the relationship betw
 
 **Tools:** The tools used in this Linear Regression project are essential Here are tools that involved in this porject:
 
-Python
-scikit-learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Scikit-learn
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
 
 **Project 1: Gradient Descent on Boston (From Scratch)**
