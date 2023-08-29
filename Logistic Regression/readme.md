@@ -13,7 +13,7 @@ Logistic Regression stands as a foundational statistical technique extensively a
 - NumPy
 - Matplotlib
 - Seaborn
-- 
+
 
 ### Project Details
 
