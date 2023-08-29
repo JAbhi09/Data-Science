@@ -1,0 +1,3 @@
+# Logistic Regression
+
+Logistic Regression stands as a foundational statistical technique extensively applied in the realm of machine learning and statistics. Its primary purpose revolves around binary classification problems, which involve sorting instances into one of two distinct classes based on their inherent features. In binary classification scenarios, the two classes are typically designated as the "positive" class and the "negative" class. An apt illustration involves medical diagnostics, where logistic regression could be employed to determine whether a patient has contracted a particular ailment (positive class) or remains unaffected (negative class), leveraging an array of medical attributes or characteristics.
