@@ -38,8 +38,8 @@ In this project, I aim to analyze publicly available data from LendingClub.com, 
 
 *Project Overview* 
 
-In this Project I will consolidate my machine learning (ML) modeling skills by using popular classification model to recognize fraudulent credit card transactions. The model is: Decision Tree. I will use a real dataset to train each of these models. The dataset includes information about transactions made by credit cards in September 2013 by European cardholders. I will use the model to assess if a credit card transaction is legitimate or not.
-In the current Project, I will practice not only the Scikit-Learn Python interface, but also the Python API offered by the Snap Machine Learning (Snap ML) library. Snap ML is a high-performance IBM library for ML modeling. It provides highly-efficient CPU/GPU implementations of linear models and tree-based models. Snap ML not only accelerates ML algorithms through system awareness, but it also offers novel ML algorithms with best-in-class accuracy. 
+In this project, I will consolidate my machine learning (ML) modeling skills by using popular classification model to recognize fraudulent credit card transactions. The model is a Decision Tree. I will use a real dataset to train each of these models. The dataset includes information about transactions made by credit cards in September 2013 by European cardholders. I will use the model to assess if a credit card transaction is legitimate or not.
+In the current project, I will practice not only the Scikit-Learn Python interface, but also the Python API offered by the Snap Machine Learning (Snap ML) library. Snap ML is a high-performance IBM library for ML modeling. It provides highly-efficient CPU/GPU implementations of linear models and tree-based models. Snap ML not only accelerates ML algorithms through system awareness, but it also offers novel ML algorithms with best-in-class accuracy. 
 
 - **Objectives**
 
