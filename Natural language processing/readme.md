@@ -4,7 +4,7 @@
 
 ![nlp](https://github.com/JAbhi09/Data-Science/assets/143057373/b3a54b86-639f-4cf9-b945-55b7f898b8bc)
 
-Tools: The tools used in this Linear Regression project are essential Here are tools that involved in this porject:
+Tools: The tools used in this Natural language processing project are essential Here are tools that involved in this porject:
 
 - Python
 - Scikit-learn
