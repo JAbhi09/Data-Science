@@ -4,7 +4,7 @@ Naive Bayes is a widely used machine learning algorithm known for its simplicity
 
 ![NBC ml image png](https://github.com/JAbhi09/Data-Science/assets/143057373/eacab35d-de1c-47f3-9a54-a1c3f0dd7127)
 
-Tools: The tools used in this Linear Regression project are essential Here are tools that involved in this porject:
+Tools: The tools used in this Naive Bayes project are essential Here are tools that involved in this porject:
 
 - Python
 - Scikit-learn
