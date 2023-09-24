@@ -5,7 +5,7 @@ Logistic Regression stands as a foundational statistical technique extensively a
 ![LogReg](https://github.com/JAbhi09/Data-Science/assets/143057373/1d8ad047-c554-4bad-8cc0-e8f10d77072e)
 
 
-**Tools**: The tools used in this Linear Regression project are essential Here are tools that involved in this porject:
+**Tools**: The tools used in this Logistic Regression project are essential Here are tools that involved in this porject:
 
 - Python
 - Scikit-learn
