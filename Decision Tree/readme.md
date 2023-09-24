@@ -8,7 +8,7 @@
 
 ![DTreealgo](https://github.com/JAbhi09/Data-Science/assets/143057373/d14a8bcf-4e65-4999-bd1c-60c4fca35dfd)
 
-Tools: The tools used in this Linear Regression project are essential Here are tools that involved in this porject:
+Tools: The tools used in this Decision Tree , Random Forest, and AdaBoost Classifier project are essential Here are tools that involved in this porject:
 
 - Python
 - Scikit-learn
