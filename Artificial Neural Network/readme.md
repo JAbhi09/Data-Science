@@ -29,5 +29,5 @@ Tools: The tools used in this Artificial Neural Network project are essential He
 
 *Project Overview*
 
-This project focuses on predicting customer churn using a custom neural network architecture and hyperparameter tuning. The dataset containing customer information is preprocessed through data splitting and standard scaling. Hyperparameter tuning is conducted using GridSearchCV to optimize the neural network's configuration. The best-performing model, with activation set to 'relu,' a batch size of 20, and 50 epochs, is selected based on cross-validation results. The trained model is evaluated on the test data, achieving a commendable accuracy of approximately 85.9%.
+This project focuses on predicting customer churn using a custom neural network architecture and hyperparameter tuning. The dataset containing customer information is preprocessed through data splitting and standard scaling. Hyperparameter tuning is conducted using GridSearchCV to optimize the neural network's configuration. 
   
