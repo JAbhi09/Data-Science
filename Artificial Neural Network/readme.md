@@ -17,7 +17,7 @@ Tools: The tools used in this Artificial Neural Network project are essential He
 # Project Details
 
 
-**Project-1 :- ANN from scratch**
+**Project-1 :- ANN from Scratch**
 
 *Project Overview*
 
@@ -25,9 +25,11 @@ Tools: The tools used in this Artificial Neural Network project are essential He
 - Define the input data and output labels, basically AND operation(without hidden layer).
 - Define the input data matrix and output data matrix that is actually a XOR function(with hidden layer).
 
-**Project-2 :- ANN Churn model**
+**Project-2 :- ANN Churn Model**
 
 *Project Overview*
 
 This project focuses on predicting customer churn using a custom neural network architecture and hyperparameter tuning. The dataset containing customer information is preprocessed through data splitting and standard scaling. Hyperparameter tuning is conducted using GridSearchCV to optimize the neural network's configuration. 
   
+**Project-2 :- House Price Prediction**
+You can prefer this link : [House Price Predictor](https://github.com/JAbhi09/house-price-predictor-app)
