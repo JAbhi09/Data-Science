@@ -25,7 +25,7 @@ Tools: The tools used in this Artificial Neural Network project are essential He
 - Define the input data and output labels, basically AND operation(without hidden layer).
 - Define the input data matrix and output data matrix that is actually a XOR function(with hidden layer).
 
-**Project-2 :- ANN Churn Model**
+**Project-3 :- ANN Churn Model**
 
 *Project Overview*
 
