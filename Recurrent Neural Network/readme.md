@@ -25,7 +25,7 @@ Recurrent Neural Networks (RNNs) are a class of neural networks tailored for seq
 -  The achieved accuracy levels (97.49% on test data) make the model suitable for real-world email filtering systems, enhancing user experience and reducing spam.
 
 
-**Project-1 :- Text Generation using Project Gutenberg eBook Dataset (Book Name:- No Title)**
+**Project-2 :- Text Generation using Project Gutenberg eBook Dataset (Book Name:- No Title)**
 
 *Project Overview*
 
